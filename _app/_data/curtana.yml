@@ -1,10 +1,10 @@
 # Theme facts
 meta:
-  name:         Curtana
-  url:          https://sparanoid.com/lab/amsf/theme-curtana.html
-  author:       Tunghsiao Liu
-  author_url:   https://sparanoid.com/
-  github:       https://github.com/amsf/amsf-curtana
+  name:         Github
+  url:          https://github.com/speediing
+  author:       Jason Wiker
+  author_url:   https://github.com/speediing
+  github:       https://github.com/speediing
 
 # Hide footer from your homepage, example: sparanoid.com
 # Default:      false

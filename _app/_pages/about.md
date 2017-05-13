@@ -2,20 +2,19 @@
 layout: page
 title: About
 permalink: /about/
-desc: 示例頁面・サンプルページ・Example Page
+desc: Who am I
 ---
 
-This is an example About page.
+My name is Jason Wiker(if it already wasnt clearly obvious)
 
-Sparanoid is a design studio operated by Tunghsiao Liu. You can ping me on [Twitter](https://twitter.com/tunghsiao) or send correspondence to [t@sparanoid.com](mailto:t@sparanoid.com).
+I am a software developer and thinker who is always looking at new solutions to problems
 
-## Colophon
-
+# Example links
 [AMSF](https://sparanoid.com/lab/amsf/) ([Source](https://github.com/sparanoid/sparanoid.com)) -
 [GitHub](https://github.com/) -
 [CloudFront](https://aws.amazon.com/cloudfront/) -
 [Textmate](https://macromates.com/)
 
-All posts are &copy; Sparanoid, Inc., all rights reserved.
+All posts are &copy; Jason Wiker, all rights reserved.
 
 *[AMSF]: Almace Scaffolding

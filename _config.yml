@@ -71,7 +71,7 @@ dev:            false
 # Site name
 #
 # Default:      Almace Scaffolding
-name:           Almace Scaffolding
+name:           Jason Wiker
 
 # Site short name
 #
@@ -87,14 +87,14 @@ name:           Almace Scaffolding
 # - name_short: Sparanoid
 #
 # Default:      AMSF
-name_short:     AMSF
+name_short:     jasonwiker
 
 # Site description
 #
 # Will be used in the document meta and Atom feed subtitle
 #
 # Default:      Almace Scaffolding - Super-fast Jekyll framework
-description:    Almace Scaffolding - Super-fast Jekyll framework
+description:    Software Developer
 
 # Base URL
 #
@@ -124,7 +124,7 @@ feed:           /feed.xml
 # URLs for these fields
 #
 # Default:      https://sparanoid.com
-url:            https://sparanoid.com
+url:            https://jasonwiker.ca
 
 # Media assets URL
 #

@@ -7,9 +7,9 @@
 # {{ author.web }}: used in atom feed
 # {{ author.twitter }}: used by Twitter Cards
 default:
-  name:         Tunghsiao Liu
-  email:        t@sparanoid.com
-  web:          https://sparanoid.com/
+  name:         Jason Wiker
+  email:        jason.wiker@ucalgary.ca
+  web:          https://jasonwiker.ca
   twitter:      tunghsiao
 
 tester:
