@@ -1,10 +1,10 @@
 # This is an example config for `s3_website`
 # Rename this file to `s3_website.yml` and edit it
 # See https://github.com/laurilehmijoki/s3_website for more info
-s3_id: <%= ENV['S3_ID'] %>
-s3_secret: <%= ENV['S3_SECRET'] %>
-s3_bucket: sparanoid.com
-site: .
+s3_id: AKIAJE7QR26BU2IOFIPQ
+s3_secret: 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
+s3_bucket: www.jasonwiker.ca
+#site: .
 cache_control:
   "*.json":  no-cache, no-store
   "*service-worker.js": no-cache, no-store
@@ -22,11 +22,11 @@ concurrency_level: 10
 treat_zero_length_objects_as_redirects: true
 
 # CloudFront settings
-cloudfront_distribution_id: <%= ENV['CF_DIST_ID'] %>
-cloudfront_invalidate_root: true
-cloudfront_wildcard_invalidation: true
-cloudfront_distribution_config:
-  aliases:
-    quantity: 1
-    items:
-      - sparanoid.com
+# cloudfront_distribution_id: <%= ENV['CF_DIST_ID'] %>
+# cloudfront_invalidate_root: true
+# cloudfront_wildcard_invalidation: true
+# cloudfront_distribution_config:
+#   aliases:
+#     quantity: 1
+#     items:
+#       - www.jasonwiker.ca

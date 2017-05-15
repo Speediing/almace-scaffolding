@@ -200,14 +200,14 @@ link_blog:      false
 # Change the value to true to use post excerpt for RSS feeds
 #
 # Default:      false
-rss_excerpt:    false
+rss_excerpt:    true
 
 # Generator credits
 #
 # Show or hide generator credits, require theme support
 #
 # Default:      true
-credits:        true
+credits:        false
 
 # Custom records in robots.txt
 #
