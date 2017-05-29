@@ -2,9 +2,9 @@
 layout: page
 title: Blog
 permalink: /blog/
-desc: All my thoughts gathered in one place(im so sorry)
+desc: A collection of thoughts, tips and advice that I have accumulated
 ---
 
-{% for post in site.categories.news %}
+{% for post in site.categories.blog %}
   {% include themes/{{ site.amsf_theme }}/includes/page-item.html %}
 {% endfor %}
