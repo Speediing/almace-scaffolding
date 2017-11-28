@@ -22,7 +22,7 @@ I also have an interest in iOS development with a couple projects currently comp
 **I'm always interested to hear from you**
 
 
-So if you have a possible idea that you want built or you want to talk about another opportunity feel free to contact me by my contact links on the bottom. I'm always looking to try new things and hear from new people
+So if you have a possible idea that you want built or you want to talk about another opportunity feel free to contact me by my contact links on the bottom. As well you can take a look at my resume [here](https://s3-us-west-1.amazonaws.com/www.jasonwiker.ca/assets/img/resumeJasonWiker.pdf). I'm always looking to try new things and hear from new people
 
 
 
